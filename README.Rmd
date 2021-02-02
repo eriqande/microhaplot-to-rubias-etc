@@ -1,0 +1,27 @@
+---
+title: "microhaplot-to-rubias-etc"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a quick repository with some reproducible examples and explanations
+about how one might convert output from
+[microhaplot](https://github.com/ngthomas/microhaplot) to some commonly used format.
+
+For now, I am just going to show how to do that for putting things into
+[rubias](https://github.com/eriqande/rubias) format.
+
+This was inspired by the enjoyable
+[blog post](https://johnbhorne.wordpress.com/2019/03/22/snp-haplotypes-for-mixed-stock-fishery-analysis-microhaplot-to-rubias-conversion-in-r/) that John B. Horne made
+about the topic in his blog,
+[The Marine Biologist at the Breakfast Table](https://johnbhorne.wordpress.com/).
+If you haven't read it, yet, click that link and check it out!
+
+Presently, John is an NRC Postdoc at NOAA Southwest Fisheries Science
+Center, and we are super happy to have him!
+
+
+
